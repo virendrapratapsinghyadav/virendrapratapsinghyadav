@@ -1,6 +1,4 @@
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=virendrapratapsinghyadav&label=Profile%20views&color=0e75b6&style=flat" alt="Virendra" />
-</p>
+
 <h1 align="center">Hi, I'm Virendra..</h1>
 
 # 💫 About Me:
